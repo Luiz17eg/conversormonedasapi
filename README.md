@@ -16,8 +16,7 @@ El Conversor de Monedas es un proyecto desarrollado en Java que utiliza principi
 4. [Acceso al Proyecto](#acceso-al-proyecto)
 5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 6. [Personas Contribuyentes](#personas-contribuyentes)
-7. [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
-8. [Licencia](#licencia)
+7. [Licencia](#licencia)
 
 ## Estado del Proyecto
 
