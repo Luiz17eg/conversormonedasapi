@@ -44,5 +44,5 @@ El código fuente está disponible en [GitHub](https://github.com/Luiz17eg/conve
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](URL_DE_TU_LICENCIA).
+Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/Luiz17eg/conversormonedasapi/blob/main/LICENSE).
 
