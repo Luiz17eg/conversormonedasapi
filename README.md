@@ -4,7 +4,6 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    <img src="https://img.shields.io/badge/Licencia-MIT-brightgreen">
 </p>
-
 ## Descripción del Proyecto
 
 El Conversor de Monedas es un proyecto desarrollado en Java que utiliza principios avanzados de programación orientada a objetos y una API externa, [ExchangeRate-API], para realizar conversiones precisas entre diferentes monedas. Este proyecto no solo proporciona una herramienta útil para convertir monedas, sino que también sirve como un ejercicio práctico para aplicar conceptos fundamentales como el consumo de API, herencia y polimorfismo en el contexto de Java.
@@ -26,7 +25,9 @@ Actualmente, el proyecto se encuentra en fase de desarrollo activo.
 
 ## Demostración de Funciones y Aplicaciones
 
-Aquí puedes incluir ejemplos de código o capturas de pantalla que muestren cómo funciona tu Conversor de Monedas.
+![1](https://github.com/Luiz17eg/conversormonedasapi/assets/85706841/519ca12e-e1a6-45e2-ac95-0f7a63b8c45c)
+
+![2](https://github.com/Luiz17eg/conversormonedasapi/assets/85706841/832c8c8b-cd8c-4bfa-9ee1-f695b4adb563)
 
 ## Acceso al Proyecto
 
@@ -40,7 +41,7 @@ El código fuente está disponible en [GitHub](https://github.com/Luiz17eg/conve
 
 ## Personas Contribuyentes
 
-- Luiz Enriquez (@Luiz17eg)
+- Luiz Enriquez ([@Luiz17eg](https://github.com/Luiz17eg))
 
 ## Licencia
 
